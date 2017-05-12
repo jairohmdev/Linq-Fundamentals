@@ -1,0 +1,6 @@
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\bin\Debug\Queries.exe.config
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\bin\Debug\Queries.exe
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\bin\Debug\Queries.pdb
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\obj\Debug\Queries.exe
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\obj\Debug\Queries.pdb
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache

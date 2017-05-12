@@ -1,0 +1,6 @@
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\bin\Debug\Introduction.exe.config
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\bin\Debug\Introduction.exe
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\bin\Debug\Introduction.pdb
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\obj\Debug\Introduction.csprojResolveAssemblyReference.cache
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\obj\Debug\Introduction.exe
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Introduction\obj\Debug\Introduction.pdb

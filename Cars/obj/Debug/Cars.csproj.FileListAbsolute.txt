@@ -1,0 +1,7 @@
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\bin\Debug\Cars.exe.config
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\bin\Debug\fuel.csv
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\bin\Debug\Cars.exe
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\bin\Debug\Cars.pdb
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\obj\Debug\Cars.exe
+C:\Users\Mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Cars\obj\Debug\Cars.pdb

@@ -1,0 +1,6 @@
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\bin\Debug\Features.exe.config
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\bin\Debug\Features.exe
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\bin\Debug\Features.pdb
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\obj\Debug\Features.exe
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\obj\Debug\Features.pdb
+c:\users\mllrdev10\documents\visual studio 2015\Projects\LinqFundamentals\Features\obj\Debug\Features.csprojResolveAssemblyReference.cache
